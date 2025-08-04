@@ -1,3 +1,3 @@
 {
-    "files": ["form.ui","widget.py","c-test.cpp"]
+    "files": ["form.ui","widget.py","c-test.cpp","py-file.py"]
 }
